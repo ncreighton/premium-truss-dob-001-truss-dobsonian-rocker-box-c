@@ -1,0 +1,2 @@
+# premium-truss-dob-001-truss-dobsonian-rocker-box-c
+Tired of scattered notes, sketches, and specifications across multiple apps while building your truss Dobsonian? The Truss Dobsonian &amp; Rocker Box Craft Hub consolidates every design decision, measurement, and assembly step into one unified Notion workspace.  This template eliminates the friction between planning and building by organizing your enti
